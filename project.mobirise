@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Namastien",
-    "currentPage": "Polen",
+    "currentPage": "How I fell in love with travelling",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,183 +24,12 @@
     "favicon": "@PROJECT_PATH@/assets/images/dsc-0499-128x85.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 71,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "sitehoofd": {
-      "settings": {
-        "main": true,
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-8",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0102-2-2000x1061.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "namasté",
-          "text": "Ik ben Stien en ik ga bloggen!<br><br>Waarom?&nbsp;<br>1. omdat de familie en vriendjes zo kunnen volgen wat ik uitsteek in het buitenland; <br>2. om mijn belevenissen en gedachten als een dagboek op te slaan;<br>3. om mijn reiskriebels met jullie te delen!<br><br>Dit alles los van de strakke structuur van instagram en de te 'openbaarheid' van facebook. En beginnen vloggen op youtube is nu ook wat overdreven. <br>Deze blog is het: Mijn eigen plek in mijn eigen format.<br><br>Deze schrijfsels zijn al vingeroefeningen voor het echte werk vanuit Nepal.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features1-7\" data-toolbar=\"-mbrBtnMove\">reizen</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ideeën</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nepal</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#95b7c9"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "features1-f",
-          "_params": {
-            "columnsColor": "#95b7c9",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc-0102-3-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Italië 2017",
-          "subtitle1": "Friuli met het gezinnetje<br>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"Italië\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">Da wil ik zien</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170630-204404499-hdr-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Polen 2017",
-          "subtitle2": "Krakau, Zakopane en Warschau met de vriendinnetjes",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"Polen\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">En da ook</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170621-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Nepal&nbsp;",
-          "subtitle3": "Over het grote avontuur van september-oktober",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"Waarom?\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">Spannend...</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img_20170525-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "hersenspinsels",
-          "subtitle4": "Over luxe, profileren en imponeren<br>",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"hersenspinsels\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">kei interessant</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170621-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Nepal",
-          "subtitle5": "Over het grote avontuur van september-oktober",
-          "caption5": "",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">spjennend</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        }
-      ]
-    },
     "Italië": {
       "settings": {
         "title": "Italië",
@@ -768,7 +597,7 @@
             "showMeta": true
           },
           "title": "Opa's geboortestreek: <br>Monte Matajur, Brida en Cividale",
-          "meta": "De dag waarop we onze roots zochten in opa's geboortedorpje: Cividale. De dag begon al vroeg: om 7u zaten we in de auto. Op het programma stond een beklimming van de monte matajur, vervolgens Brida, hierna het bedevaartsoord Castelmonte en ten slotte Cividale itself, de stad in het dal.&nbsp;<br><br>Na een rit van een uur over de Povlakte begon de weg stilaan te klimmen. Op een smalle weg vol haarspeldbochten trotseerden we de beboste bergen richting Monte Matajur. Die beklommen we en genoten van het uitzicht. <br><br>Hierna reden we langs kronkelende paadjes verder richting opa's dorpje Brida.&nbsp;Pappi, mijn overgrootvader, verhuisde in de jaren '50 vanuit Brida naar Luik om er in de mijnen te werken. Iets later kwam mammi hem achterna met hun inboedel en de kinderen. Onze verbazing was groot: hoewel we meerdere kleine dorpjes gepasseerd waren, was dit bij uitstek het kleinst, hoogst en meest afgelegen. De weg stopte gewoonweg na Brida. Brida telde hooguit vijftien huizen. Liggen híér, op het einde van de wereld, onze roots? Op de geparkeerde auto's na leken we honderd jaar terug in de tijd te zijn gegaan. Bij één deurtje stonden klompen (klómpen!).&nbsp;We bleken de auto vlak vlak aan het lapje grond waar opa op ter wereld gekomen is te hebben geparkeerd. Hier bovenop vonden we het schattigste kittentje ooit. Guus en ik zagen dit als het lot: dit katje is voortbestemd om dezelfde weg richting België te volgen als mammi en pappi! We moeten hem meenemen! Helaas zagen mama en papa dit een beetje anders en hebben we hem moeten achterlaten. Maar niet zonder hem eerst uitgebreid te hebben gefotografeerd.&nbsp;<br><br><span style=\"font-size: 17px;\">Passerend bij het bedevaartsoord Castelmonte gingen we weer naar het dal voor een diner in Cividale. Mooie historische stad aan de rivier de Latisone.</span><br>"
+          "meta": "De dag waarop we onze roots zochten in opa's geboortedorpje: Cividale. De dag begon al vroeg: om 7u zaten we in de auto. Op het programma stond een beklimming van de monte matajur, vervolgens Brida, hierna het bedevaartsoord Castelmonte en ten slotte Cividale itself, de stad in het dal.&nbsp;<br><br>Na een rit van een uur over de Povlakte begon de weg stilaan te klimmen. Op een smalle weg vol haarspeldbochten trotseerden we de beboste bergen richting Monte Matajur. Die beklommen we en genoten van het uitzicht. <br><br>Hierna reden we langs kronkelende paadjes verder richting opa's dorpje Brida.&nbsp;Pappi, mijn overgrootvader, verhuisde in de jaren '50 vanuit Brida naar Luik om er in de mijnen te werken. Iets later kwam mammi hem achterna met hun inboedel en de kinderen. Onze verbazing was groot: hoewel we meerdere kleine dorpjes passeerden tijdens de klim, was Brida bij uitstek het kleinst, hoogst en meest afgelegen. De weg stopte gewoonweg na Brida. Het dorpje telde hooguit vijftien huizen. Liggen híér, op het einde van de wereld, onze roots? Op de geparkeerde auto's na leken we honderd jaar terug in de tijd te zijn gegaan. Bij één deurtje stonden klompen (klómpen!).&nbsp;We bleken de auto vlak vlak aan het lapje grond waar opa op ter wereld gekomen is te hebben geparkeerd. Hier bovenop vonden we het schattigste kittentje ooit. Guus en ik zagen dit als het lot: dit katje is voortbestemd om dezelfde weg richting België te volgen als mammi en pappi! We moeten hem meenemen! Helaas zagen mama en papa dit een beetje anders en hebben we hem moeten achterlaten. Maar niet zonder hem eerst uitgebreid te hebben geknuffeld.&nbsp;<br><br><span style=\"font-size: 17px;\">Passerend bij het bedevaartsoord Castelmonte gingen we weer naar het dal voor een diner in Cividale. Mooie historische stad aan de rivier de Latisone.</span><br>"
         },
         {
           "_tags": [
@@ -1102,7 +931,7 @@
             "showMeta": true
           },
           "title": "Triëste",
-          "meta": "Deze stad ligt in een oostelijk uithoekje van Italië tegen de grens van Slovenië geperst. Ook Triëste ligt op een uurtje treinen van ons huisje. De trein reed langs de adriatische kust. Dat leverde mooie uitzichten op. Mooie stad, leuke sfeer. Hier en daar Romeinse resten, langs de dijk imposante paleizen uit de 19de eeuw. De treinrit was trouwens ook heel plezant!"
+          "meta": "Deze stad ligt in een oostelijk uithoekje van Italië tegen de grens van Slovenië geperst. Ook Triëste ligt op een uurtje treinen van ons huisje. Het spoor volgt de adriatische kustlijn. Dat leverde mooie uitzichten op. Mooie stad, leuke sfeer. Hier en daar Romeinse resten, langs de dijk imposante paleizen uit de 19de eeuw. De treinrit was trouwens ook heel plezant!"
         },
         {
           "_tags": [
@@ -1264,7 +1093,7 @@
             "showMeta": true
           },
           "title": "Venetië",
-          "meta": "Mijn all time favorite city. Dit bezoekje was mijn vierde keer in de Parel van Europa! Net als dat verdomde toerisme neemt mijn waardering voor de stad toe. Elke steegje is een nieuwe ontdekking.&nbsp;<br>We bezochten de Biënnale van Venetië, een tweejaarlijks 'songfestival voor kunst'. Dat was de moeite!&nbsp;<br>Dit zijn ineens de laatste foto's van Italië. Hopelijk heb je ervan genoten.&nbsp;"
+          "meta": "Mijn all time favorite city. Dit bezoekje was mijn vierde keer in de Parel van Europa! Net als dat verdomde toerisme neemt mijn waardering voor de stad toe. Elke steegje is een nieuwe ontdekking.&nbsp;<br>We bezochten de Biënnale van Venetië, een tweejaarlijks 'songfestival voor kunst'. Dat was de moeite!&nbsp;<br>Dit zijn de laatste foto's van Italië. Hopelijk heb je ervan genoten.&nbsp;"
         },
         {
           "_tags": [
@@ -1497,22 +1326,6 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-2-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.1",
-                "overlayColor": "#000000",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<br><br>POLEN",
-                "showText": true,
-                "text": "Met Lynn, Jip en Helena deed ik in juni een toereke door Polen. Dat het de moeite was! Op de eerste dag zagen we iemand soep in een brood eten. Dat wilden we ook! Helaas is dat er niet van gekomen. Wel hebben we heel lekker en goedkoop gegeten! Ik kan geen genoeg krijgen van de poolse dumplings. Hmm. Ah ja, en ik had een paar weken voor vertrek mijn hand gebroken. Vandaar de plaaster op sommige foto's. ",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc-0019-2-2000x1332.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1542,7 +1355,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc-0277-2-2000x1332.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1555,6 +1368,22 @@
                 "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc-2-2000x1333.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br>POLEN",
+                "showText": true,
+                "text": "Met Lynn, Jip en Helena deed ik in juni een toereke door Polen. Dat het de moeite was! Op de eerste dag zagen we iemand soep in een brood eten. Dat wilden we ook! Helaas is dat er niet van gekomen. Wel hebben we heel lekker en goedkoop gegeten! Ik kan geen genoeg krijgen van de poolse dumplings. Hmm. Ah ja, en ik had een paar weken voor vertrek mijn hand gebroken. Vandaar de plaaster op sommige foto's. ",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
@@ -1595,7 +1424,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Vanuit het vliegtuigraampje konden we al zien hoe groen Krakau wel is. De randstad is luchtig bebouwd, huizen hebben een tuin. Het centrum is gespaard gebleven van hoge, glazen wolkenkrabbers. De eerste indruk vanuit de lucht zat dus al goed. Later op de eerste dag werden we wel wat teleurgesteld: de jeugdherberg bleek een vieze, oude blok te zijn met een onvriendelijke receptioniste, en onze volle groepskamer voor negen personen was piepklein: er was net genoeg plek voor drie driepersoonsbedden en negen kluisjes.&nbsp;In de supermarkt maakten we meteen kennis van de afstandelijkheid van de Polen: de verkoopster negeerde ons compleet toen we haar vroegen of een bepaald pizzabroodje vegetarisch was. ('Is this vegetarian' is toch niet moeilijk te verstaan?!) Het pittoreske stadcentrum, volledig omrand door een groene strook park, maakte wel heel wat goed. We hadden het geluk dat het net midzomer was en maakten een traditionele optocht mee. Vanuit Krakau bezochten we de zoutmijn van Wieliczka met mooie ondergrondse ruimten en meertjes. Er was zelfs een ondergrondse kerk, volledig uit zout vervaardigd. Indrukwekkend. De plantentuin van Krakau is enorm groot. We hebben er zeker drie uur rondgelopen. Ook bezochten we het kasteel. Aan de ingang was een balie waar je dure tickets kon kopen voor allerhande rondleidingen en tentoonstellingen in de kasteelruimtes. Achteraf gezien hadden we dat beter overgeslagen, want de inkom tot de binnenkoeren en stadsomwalling is gratis en d<span style=\"font-size: 1.07rem; line-height: 1.5;\">e betalende extra's waren voor ons geen meerwaarde. In het kasteel ontmoetten we vier trekkers die in hetzelfde hostel overnachtten. Toen het begon te regenen, hebben we samen met hen geschuild en veel plezier gemaakt onder het afdak. Krakau krioelt trouwens van de reisbureautjes die daguitstappen organiseren richting Auschwitz.</span></p><p>Ondanks onze slechte ervaring met de bewoners van Krakau, hebben we een fijne tijd gehad. Krakau is een mooie, ontspannen stad.&nbsp;</p>"
+          "text": "<p>Vanuit het vliegtuigraampje konden we al zien hoe groen Krakau wel is. De randstad is luchtig bebouwd, huizen hebben een tuin. Het centrum is gespaard gebleven van hoge, glazen wolkenkrabbers. De eerste indruk vanuit de lucht zat dus al goed. Later op de eerste dag werden we wel wat teleurgesteld: de jeugdherberg bleek een vieze, oude blok te zijn (een oost-blok haha) met een onvriendelijke receptioniste, en onze volle groepskamer voor negen personen was piepklein: er was net genoeg plek voor drie driepersoonsbedden en negen kluisjes.&nbsp;In de supermarkt maakten we opnieuw kennis met de afstandelijkheid van de Polen: de verkoopster negeerde ons compleet toen we haar vroegen of een bepaald pizzabroodje vegetarisch was. ('Is this vegetarian' is toch niet moeilijk te verstaan?!) Het pittoreske stadcentrum, volledig omrand door een groene strook park, maakte wel heel wat goed. We hadden het geluk dat het net midzomer was en maakten een traditionele optocht mee. Vanuit Krakau bezochten we de zoutmijn van Wieliczka met mooie ondergrondse ruimten en meertjes. Er was zelfs een ondergrondse kerk, volledig uit zout vervaardigd. Indrukwekkend. De plantentuin van Krakau is enorm groot. We hebben er zeker drie uur rondgelopen. Ook bezochten we het kasteel. Aan de ingang was een balie waar je dure tickets kon kopen voor allerhande rondleidingen en tentoonstellingen in de kasteelruimtes. Achteraf gezien hadden we dat beter overgeslagen, want de inkom tot de binnenkoeren en stadsomwalling is gratis en d<span style=\"font-size: 1.07rem; line-height: 1.5;\">e betalende extra's waren voor ons geen meerwaarde. In het kasteel ontmoetten we vier trekkers die in hetzelfde hostel overnachtten. Toen het begon te regenen, hebben we samen met hen geschuild en veel plezier gemaakt onder het afdak. Krakau krioelt trouwens van de reisbureautjes die daguitstappen organiseren richting Auschwitz.</span></p><p>Ondanks onze slechte ervaring met onvriendelijke locals hebben we een fijne tijd gehad. Krakau is een mooie, ontspannen stad.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1841,7 +1670,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>In het Tatra-gebergte genoten we van de natuur. Kleine busjes<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;brachten ons naar de mooiste wandelroutes en een tocht traditioneel raften. Natalia, de receptioniste van ons hostel, was absoluut de liefste poolse die we ontmoet hebben, en één van de weinigen die goed Engels sprak, &nbsp;Ze beantwoordde al onze vragen met een lach. Zakopane is de grootste stad in het Poolse gedeelte van het Tatra-gebergte, maar veel is er niet te zien behalve één straat vol restaurantjes en toeristische winkeltjes. We hebben ook hier lekker gegeten, en niet alleen lekkere dumplings: ergens achterin vonden we een italiaans restaurant. Hmm, hun pizza salmone zou ik elke dag wel kunnen eten...</span></p>"
+          "text": "<p>In het Tatra-gebergte genoten we van de natuur. Kleine busjes<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;brachten ons naar de mooiste wandelroutes en een tocht traditioneel raften. Natalia, de receptioniste van ons hostel, was absoluut de liefste poolse die we ontmoet hebben, en één van de weinigen die goed Engels sprak, &nbsp;Ze beantwoordde al onze vragen met een lach. Zakopane is de grootste stad in het Poolse gedeelte van het Tatra-gebergte en in de wintermaanden hét skigebied bij uitstek, maar veel is er niet te zien behalve één straat vol restaurantjes en souvenirwinkeltjes. We hebben ook hier lekker gegeten, en niet alleen lekkere dumplings: ergens achterin vonden we een italiaans restaurant. Hmm, hun pizza salmone zou ik elke dag wel kunnen eten...</span></p>"
         },
         {
           "_inherit": "gallery1",
@@ -2137,7 +1966,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Naya en Sarah vergezelden ons na hun examens. Jeej! In Warschau huurden we een goedkoop appartementje. Daar hebben we wel wat last mee gehad. Het badwater liep niet door, de zogenaamde tweepersoonsbedden waren nauwelijks groter dan een enkel bed, de boiler werkte niet en er stonden maar vier stoelen. Tip: neem nooit de allergoedkoopste aanbieding! Maar oh wat was het oude centrum mooi! Pastelkleurige gevels met allerhande patronen op geschilderd en supergezellige pleintjes. Bijna niet te geloven dat al deze pracht tijdens WOII volledig platgebombardeerd was. Ook het dak van de universiteitsbibliotheek, waarop een tuin aangelegd is, en het Lazienki park met zijn mooie vijvers en paleizen waren heel gezellig. Qua moderne kunst is er ook wat te zien.&nbsp;</p>"
+          "text": "<p>Naya en Sarah vergezelden ons na hun laatste examens. Jeej! In Warschau huurden we een goedkoop appartementje. Daar hebben we wel wat last mee gehad. Het badwater liep niet door, de zogenaamde tweepersoonsbedden waren nauwelijks groter dan een enkel bed, de boiler werkte niet en er stonden maar vier stoelen. Tip: neem nooit de allergoedkoopste aanbieding! Maar oh wat was het oude centrum mooi! Pastelkleurige gevels met allerhande patronen op geschilderd en supergezellige pleintjes. Bijna niet te geloven dat al deze pracht tijdens WOII volledig platgebombardeerd was en achteraf volledig heropgebouwd. Ook het dak van de universiteitsbibliotheek, waarop een tuin aangelegd is, en het Lazienki park met zijn mooie vijvers en paleizen waren heel gezellig. Qua moderne kunst is er ook heel wat te zien.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2319,6 +2148,148 @@
             "showBullets": true
           },
           "_anchor": "gallery2-x",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "How I fell in love with travelling": {
+      "settings": {
+        "title": "Website Generator Title",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "How&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Ever since I'm alive, I've been going on a yearly two-week summer holiday to Italy with our family. My parents know how to get the best out of a trip: we stay in an appartment<b>&nbsp;</b>close to the beach in the area of some cultural interesting places we want to visit. Every year another region. During the holiday our 'scedule' is: beach day - excurtion - beach day - excurtion... </p><p>Also in scedule: pizza and gelato (ice cream) every evening! YOIIOAY! (You're Only In Italy Once A Year!)&nbsp;</p><p><br></p><p>Above the yearly summer holiday, our grandparents took us often on camping weekends around Belgium with our nieces and nephew. We used to be the cool camping kids, cruising around on our skates. Fun. Our high school took us on trips to Paris, Barcelona, Auchwitz and Norway, in art school we visited Paris, London and Düsseldorf.</p><p> </p><p>Our religion teacher showed us the film into the wild of&nbsp;</p><p>I had already seen quite a lot in Western Europe.</p><p><br></p><p>Every time when a new trip was planned, I couldn't stop thinking about it until the day was there. It's the only way to get a proper break from your daily routines at home: away from school, household tasks, irritating siblings,...&nbsp;</p><p><br></p><p>Then I saw the TED talk of Tomislav Perko. This was a life changer for me.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+        }
+      ]
+    },
+    "home": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0102-2-2000x1061.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "namasté",
+          "text": "Ik ben Stien en ik ga bloggen!<br>If you read this, it means I even managed to get this website online!&nbsp;<br><br>Waarom?&nbsp;<br>1. omdat de familie en vriendjes zo kunnen volgen wat ik uitsteek in het buitenland; <br>2. om mijn belevenissen en gedachten als een dagboek op te slaan;<br>3. om mijn reiskriebels met jullie te delen!<br><br>Dit alles los van de strakke structuur van instagram en de te 'openbaarheid' van facebook. En beginnen vloggen op youtube is nu ook wat overdreven. <br>Deze blog is het: Mijn eigen plek in mijn eigen format.<br><br>I want to write some dutch and English since I neither want to exclude my granny nor my overseas friends.&nbsp;<br><br>Have fun wandering around on my place of the world wide web! Mi casa è su casa.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features1-7\" data-toolbar=\"-mbrBtnMove\">reizen</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ideeën</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nepal</a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "How I decided to travel"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "<p><a href=\"Polen\">Polen 2017</a><br>Krakau, Zakopane en Warschau</p>"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "<p><a href=\"Italië\">Italië 2017</a><br>Friuli met het gezinnetje</p>"
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1w",
           "articleLayout": false,
           "allItem": "All"
         }
