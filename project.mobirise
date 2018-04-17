@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Namastien",
-    "currentPage": "How I fell in love with travelling",
+    "currentPage": "home",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2244,41 +2244,34 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "How I decided to travel"
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "<p><a href=\"Polen\">Polen 2017</a><br>Krakau, Zakopane en Warschau</p>"
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-69-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-69-2000x1333.jpg",
+                "caption": "<p><a href=\"Polen\">Polen 2017</a><br>Krakau, Zakopane en Warschau</p>",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "<p><a href=\"Italië\">Italië 2017</a><br>Friuli met het gezinnetje</p>"
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333.jpg",
+                "caption": "<p><a href=\"Italië\">Italië 2017</a><br>Friuli met het gezinnetje</p>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0632-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0632-2-2000x1333.jpg",
+                "caption": "<p><a href=\"How I fell in love with travelling\">How I fell in love with travelling</a><br></p>",
+                "active": true
               }
             ],
             "spacing": "1",
